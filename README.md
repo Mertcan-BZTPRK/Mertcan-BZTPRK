@@ -28,8 +28,8 @@
 ---
 
 ## 🧩 Multidisipliner İlgi Alanları | Multidisciplinary Interests
-- **Hardware & IoT:** Elektronik bileşenlerle entegre robotik/LEGO sistemleri. / Robotic/LEGO systems integrated with electronic components.
-- **Visual Arts:** Fotoğrafçılık ve dijital konsept sanatlar (nihilist estetik incelemeleri). / Photography and digital concept arts (explorations in nihilist aesthetics).
+- **Hardware & IoT:** Elektronik bileşenlerle entegre robotik sistemleri. / Robotic systems integrated with electronic components.
+- **Visual Arts:** Fotoğrafçılık ve dijital konsept sanatlar. / Photography and digital concept arts.
 
 ---
 
