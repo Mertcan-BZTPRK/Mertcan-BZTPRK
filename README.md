@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mertcan Boztoprak 👋
 
-<!--
-**Mertcan-BZTPRK/Mertcan-BZTPRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Engineer & Full-Stack Developer
+Erciyes Üniversitesi Bilgisayar Mühendisliği disiplinini, kurumsal ölçekli yazılım mimarileri geliştirme tutkumla birleştiriyorum. Şu anda **Meysu** bünyesinde dijital dönüşüm ve yazılım projeleri yönetiyorum.
 
-Here are some ideas to get you started:
+- 🔭 Şu an üzerinde çalışıyorum: **Kurumsal Dashboard ve Mobil Asistan Çözümleri (UNICEP)**
+- 🌱 Uzmanlık alanlarım: **C#, .NET, Python ve Veri Odaklı Uygulamalar**
+- ⚡ Hobilerim: **Elektronik projeler, LEGO ve Fotoğrafçılık**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | C#, Python, SQL, Java |
+| **Frameworks** | .NET (WPF, WinForms), Android Development |
+| **Araçlar** | Git, Firebase, Visual Studio |
+
+---
+
+### 📈 GitHub Stats
+![Mertcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mertcan-BZTPRK&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mertcan-boztoprak)
