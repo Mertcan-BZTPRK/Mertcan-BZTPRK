@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Computer%20Engineer-Erciyes%20University-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT-Meysu-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT%20WORKER-Meysu-red?style=for-the-badge" />
 </div>
 
 ## 🌐 Profil Özeti | Profile
