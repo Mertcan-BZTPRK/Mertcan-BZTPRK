@@ -1,8 +1,12 @@
 # Mertcan Boztoprak
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Computer%20Engineer-Erciyes%20University-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT%20WORKER-Meysu-red?style=for-the-badge" />
+<a href="https://www.erciyes.edu.tr/" target="_blank">
+  <img src="https://img.shields.io/badge/Computer%20Engineer-Erciyes%20University-blue?style=for-the-badge" alt="Erciyes University" />
+</a>
+<a href="https://www.meysu.com.tr/" target="_blank">
+  <img src="https://img.shields.io/badge/IT%20WORKER-Meysu-red?style=for-the-badge" alt="Meysu" />
+</a>
 </div>
 
 ## 🌐 Profil Özeti | Profile
