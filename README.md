@@ -1,56 +1,37 @@
-# Hi there, I'm Mertcan Boztoprak 👋
+# Mertcan Boztoprak
 
-<p align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/Computer%20Engineer-Erciyes%20University-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software%20Developer-Meysu-red?style=for-the-badge" />
-</p>
+</div>
+
+## 🌐 Profil Özeti | Professional Profile
+**[TR]** Erciyes Üniversitesi Bilgisayar Mühendisliği formasyonumla, kurumsal ölçekli yazılım mimarileri ve veri odaklı uygulamalar geliştiriyorum. Mevcut olarak Meysu bünyesinde teknolojik altyapı ve dijital dönüşüm süreçlerini tasarlıyorum.
+
+**[EN]** Leveraging my Computer Engineering background from Erciyes University, I develop corporate-scale software architectures and data-driven applications. Currently designing technological infrastructure and digital transformation processes at Meysu.
 
 ---
 
-### 🚀 Professional Profile | Profesyonel Profil
-
-**[EN]** I combine my academic background from **Erciyes University** with a passion for building corporate-scale software architectures. Currently, I lead digital transformation and software development projects at **Meysu**.
-
-**[TR]** Erciyes Üniversitesi Bilgisayar Mühendisliği formasyonumu, kurumsal ölçekli yazılım mimarileri geliştirme tutkumla birleştiriyorum. Halihazırda **Meysu** bünyesinde dijital dönüşüm ve yazılım geliştirme projelerine liderlik ediyorum.
-
----
-
-### 💻 Current Projects | Güncel Projeler
-
-* **UNICEP:** Mobile assistant solutions focused on UX. / Kullanıcı deneyimi odaklı mobil asistan çözümleri.
-* **MeysuDashboard:** Corporate data visualization systems. / Kurumsal veri görselleştirme sistemleri.
-* **MAB SmartHome:** IoT and smart home integration. / IoT ve akıllı ev entegrasyonu.
-* **Zemheri:** Advanced Android application development. / Gelişmiş Android uygulama geliştirme.
+## 🚀 Odak Projeler | Core Projects
+- **UNICEP:** Kullanıcı deneyimi (UX) odaklı mobil asistan çözümleri. / UX-focused mobile assistant solutions.
+- **MeysuDashboard & MAB Mailer:** Kurumsal iş akışı ve veri analitiği otomasyonları. / Corporate workflow and data analytics automations.
+- **MAB SmartHome & Zemheri:** IoT tabanlı donanım entegrasyonları ve ileri seviye Android geliştirme. / IoT-based hardware integrations and advanced Android development.
+- **MABooklet & CRYPTAI:** C# tabanlı PDF işleme modülleri ve Python tabanlı kripto/veri analiz algoritmaları. / C#-based PDF processing modules and Python-based crypto/data analysis algorithms.
 
 ---
 
-### 🛠️ Technical Stack | Teknolojik Yetkinlikler
-
-| Domain / Alan | Technologies / Teknolojiler |
-| :--- | :--- |
-| **Languages** | C#, Python, SQL, Java |
-| **Frameworks** | .NET (WPF, WinForms), Android |
-| **Databases** | MSSQL, Firebase |
-| **Tools** | Git, Visual Studio, Firebase Console |
+## ⚙️ Teknik Altyapı | Tech Stack
+- **Diller / Languages:** C#, Python, SQL, Java
+- **Mimariler / Frameworks:** .NET (WPF, WinForms), Android Development
+- **Veritabanı / Databases:** MSSQL, Firebase
 
 ---
 
-### 📊 GitHub Insights | İstatistikler
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mertcan-BZTPRK&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcan-BZTPRK&layout=compact&theme=tokyonight" />
-</p>
+## 🧩 Multidisipliner İlgi Alanları | Multidisciplinary Interests
+- **Hardware & IoT:** Elektronik bileşenlerle entegre robotik/LEGO sistemleri. / Robotic/LEGO systems integrated with electronic components.
+- **Visual Arts:** Fotoğrafçılık ve dijital konsept sanatlar (nihilist estetik incelemeleri). / Photography and digital concept arts (explorations in nihilist aesthetics).
 
 ---
 
-### 🧩 Interests | İlgi Alanları
-
-* **Engineering:** LEGO structures integrated with electronics. / Elektronik entegreli LEGO yapıları.
-* **Art:** Photography and digital concept arts. / Fotoğrafçılık ve dijital konsept sanatlar.
-* **Philosophy:** Nihilist concepts and digital aesthetics. / Nihilist kavramlar ve dijital estetik.
-
----
-
-### 📫 Connect with me | İletişim
+## 🔗 İletişim | Contact
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mertcan-boztoprak)
