@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Software%20Developer-Meysu-red?style=for-the-badge" />
 </div>
 
-## 🌐 Profil Özeti | Professional Profile
+## 🌐 Profil Özeti | Profile
 **[TR]** Erciyes Üniversitesi Bilgisayar Mühendisliği formasyonumla, kurumsal ölçekli yazılım mimarileri ve veri odaklı uygulamalar geliştiriyorum. Mevcut olarak Meysu bünyesinde teknolojik altyapı ve dijital dönüşüm süreçlerini tasarlıyorum.
 
 **[EN]** Leveraging my Computer Engineering background from Erciyes University, I develop corporate-scale software architectures and data-driven applications. Currently designing technological infrastructure and digital transformation processes at Meysu.
