@@ -42,3 +42,7 @@
 [<img src="https://img.shields.io/badge/Web_Sitesi-mabtech.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://mabtech.me)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=04E4E7&height=120&section=footer" width="100%" style="display: block; margin: 0; padding: 0; border: none; margin-bottom: -5px;"/>
+</div>
