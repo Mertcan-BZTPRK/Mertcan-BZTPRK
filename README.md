@@ -1,6 +1,7 @@
 <div align="center">
-
+<a href="https://www.erciyes.edu.tr/" target="_blank">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mertcan%20Boztoprak&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20IT%20Specialist%20%7C%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+Erciyes;IT+Specialist+%40+Meysu;C%23+%26+.NET+Developer;IoT+%26+Hardware+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
