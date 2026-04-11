@@ -127,7 +127,7 @@ Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üz
 ## 📈 GitHub İstatistikleri | GitHub Stats
 
 <div align="center">
-
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mertcan-BZTPRK&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mertcan-BZTPRK&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcan-BZTPRK&layout=compact&theme=tokyo-night&hide_border=true"/>
 
