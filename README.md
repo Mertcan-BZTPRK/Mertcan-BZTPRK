@@ -74,18 +74,75 @@
 
 <br/>
 
-<div align="center">
-
-| | Proje | Açıklama | Teknolojiler |
-|:---:|:---|:---|:---|
-| 📱 | **ZEMHERİ** | Döviz ve altın piyasalarını anlık takip eden, portföy yönetimi ve kâr/zarar analizi sunan Android finans uygulaması. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| 📄 | **MABooklet** | Baskıya hazır kitapçık oluşturma, yapay zeka destekli TTS, PDF birleştirme ve bölme özellikli hepsi bir arada PDF araç seti. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 📧 | **MAB Mailer** | Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ClosedXML](https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| 🎬 | **MAB Converter** | YouTube, LinkedIn, Instagram ve X'ten 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme aracı. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white) |
-| 📌 | **MAB Pin** | Seçilen uygulamayı tek kısayolla her zaman üstte tutan, neon görünümlü, hafif WPF masaüstü aracı. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![DWM](https://img.shields.io/badge/DWM-0078D4?style=flat-square&logo=windows&logoColor=white) |
-| 🔒 | **Devam Eden Ar-Ge** | MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları. | ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 ZEMHERİ</h3>
+      <p>Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü yönetimi ve kâr/zarar analizi sunan profesyonel Android finans uygulaması.</p>
+      <p><em>Professional Android finance app for real-time currency & gold tracking, portfolio management and P&L analysis.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 MABooklet</h3>
+      <p>Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birleştirme ve bölme özelliklerine sahip hepsi bir arada PDF araç seti.</p>
+      <p><em>All-in-one PDF toolkit: print-ready booklets, AI-powered TTS, merge & split — in a modern dark WPF interface.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📧 MAB Mailer</h3>
+      <p>Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması.</p>
+      <p><em>Bulk & personalized email sending desktop application powered by Excel data sources.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 MAB Converter</h3>
+      <p>YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme işlemleri yapan profesyonel Windows uygulaması.</p>
+      <p><em>Professional Windows app for downloading & converting 4K/1080p video & audio from YouTube, Instagram, X and more.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 MAB Pin</h3>
+      <p>Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon görünümlü, sistem kaynağı tüketmeyen hafif WPF masaüstü aracı.</p>
+      <p><em>Lightweight WPF desktop tool that pins any app Always on Top with a single shortcut and neon UI.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DWM-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 Devam Eden | Ongoing</h3>
+      <p>MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları.</p>
+      <p><em>Active R&D at MAB Tech: new IoT protocols, cloud integrations, and data analytics tools.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloud-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+        <a href="https://mabtech.me"><img src="https://img.shields.io/badge/Takip%20et-mabtech.me-0077B5?style=flat-square"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
