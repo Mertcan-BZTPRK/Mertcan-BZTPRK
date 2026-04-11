@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.erciyes.edu.tr/" target="_blank">
+<a href="www.linkedin.com/in/mertcan-boztoprak" target="_blank">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mertcan%20Boztoprak&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20IT%20Specialist%20%7C%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 </a>
 
@@ -75,7 +75,6 @@
 <table>
 <tr>
 <td width="50%">
-
 ### 📱 ZEMHERİ
 Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü yönetimi ve kâr/zarar analizi sunan profesyonel Android finans uygulaması.
 
@@ -87,7 +86,6 @@ Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü
 
 </td>
 <td width="50%">
-
 ### 📄 MABooklet
 Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birleştirme ve bölme özelliklerine sahip hepsi bir arada PDF araç seti.
 
@@ -101,7 +99,6 @@ Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birl
 </tr>
 <tr>
 <td width="50%">
-
 ### 📧 MAB Mailer
 Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması.
 
@@ -113,7 +110,6 @@ Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kur
 
 </td>
 <td width="50%">
-
 ### 🎬 MAB Converter
 YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme işlemleri yapan profesyonel Windows uygulaması.
 
@@ -127,7 +123,6 @@ YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses
 </tr>
 <tr>
 <td width="50%">
-
 ### 📌 MAB Pin
 Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon görünümlü, sistem kaynağı tüketmeyen hafif WPF masaüstü aracı.
 
@@ -139,7 +134,6 @@ Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon
 
 </td>
 <td width="50%">
-
 ### 🔒 [Devam Eden | Ongoing]
 MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları.
 
