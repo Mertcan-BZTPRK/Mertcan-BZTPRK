@@ -63,60 +63,88 @@
 
 ---
 
-## 🚀 Odak Projeler | Core Projects
+## 🚀 Projeler | Projects
+
+<div align="center">
+
+[![MAB Tech Website](https://img.shields.io/badge/🌐%20Tüm%20Projeler%20için-mabtech.me-0077B5?style=for-the-badge)](https://mabtech.me)
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 UNICEP
-UX odaklı mobil asistan platformu. Kullanıcı etkileşimini merkeze alan, akıllı bildirim ve görev yönetimi sistemi içeren Android uygulaması.
+### 📱 ZEMHERİ
+Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü yönetimi ve kâr/zarar analizi sunan profesyonel Android finans uygulaması.
 
-*UX-first mobile assistant platform with smart notifications and task management.*
+*Professional Android finance app for real-time currency & gold tracking, portfolio management and P&L analysis.*
 
-</td>
-<td width="50%">
-
-### 📊 MeysuDashboard & MAB Mailer
-Kurumsal iş akışlarını ve veri analitiğini otomatikleştiren, gerçek zamanlı dashboard ve e-posta otomasyon sistemi.
-
-*Real-time corporate dashboard with automated e-mail workflow engine.*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏠 MAB SmartHome & Zemheri
-IoT tabanlı akıllı ev sistemi. Donanım entegrasyonları, sensör ağları ve Android kontrol arayüzü içerir.
-
-*IoT smart home system with sensor networks and Android control panel.*
-
-</td>
-<td width="50%">
-
-### 🤖 CRYPTAI
-Python tabanlı kripto para ve piyasa veri analiz motoru. Yapay zeka destekli örüntü tanıma ve sinyal üretimi.
-
-*Python-based crypto market analysis engine with AI-driven pattern recognition.*
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📄 MABooklet
-C# ile geliştirilmiş kurumsal PDF işleme ve raporlama modülü. Otomatik belge üretimi ve şablon motoru.
+Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birleştirme ve bölme özelliklerine sahip hepsi bir arada PDF araç seti.
 
-*C#-based PDF processing and automated corporate reporting module.*
+*All-in-one PDF toolkit: print-ready booklets, AI-powered TTS, merge & split — in a modern dark WPF interface.*
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📧 MAB Mailer
+Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması.
+
+*Bulk & personalized email sending desktop application powered by Excel data sources.*
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ClosedXML](https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🔒 [Devam Eden Projeler | Ongoing]
-Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üzerine aktif Ar-Ge çalışmaları.
+### 🎬 MAB Converter
+YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme işlemleri yapan profesyonel Windows uygulaması.
 
-*Active R&D on new IoT protocols, cloud integrations, and ML models.*
+*Professional Windows app for downloading & converting 4K/1080p video & audio from YouTube, Instagram, X and more.*
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📌 MAB Pin
+Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon görünümlü, sistem kaynağı tüketmeyen hafif WPF masaüstü aracı.
+
+*Lightweight WPF desktop tool that pins any app Always on Top with a single shortcut and neon UI.*
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![DWM](https://img.shields.io/badge/DWM-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔒 [Devam Eden | Ongoing]
+MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları.
+
+*Active R&D at MAB Tech: new IoT protocols, cloud integrations, and data analytics tools.*
+
+[![mabtech.me](https://img.shields.io/badge/Takip%20et-mabtech.me-0077B5?style=flat-square)](https://mabtech.me)
 
 </td>
 </tr>
@@ -128,8 +156,11 @@ Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üz
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Mertcan-BZTPRK&theme=tokyo-night&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mertcan-BZTPRK&layout=compact&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mertcan-BZTPRK&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mertcan-BZTPRK&theme=tokyo_night"/>
 
 </div>
 
@@ -178,7 +209,8 @@ Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üz
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mertcan--BZTPRK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mertcan-BZTPRK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mertcan%20Boztoprak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertcanboztoprak)
-[![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertcan@example.com)
+[![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertcan.boztoprak@hotmail.com)
+[![Website](https://img.shields.io/badge/Website-mabtech.me-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mabtech.me)
 
 </div>
 
