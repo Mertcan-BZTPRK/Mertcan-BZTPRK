@@ -158,6 +158,13 @@ MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve ver
 
 <img src="https://streak-stats.demolab.com?user=Mertcan-BZTPRK&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mertcan-BZTPRK&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
