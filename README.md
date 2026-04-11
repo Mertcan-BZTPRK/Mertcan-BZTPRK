@@ -127,9 +127,9 @@ Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üz
 ## 📈 GitHub İstatistikleri | GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mertcan-BZTPRK&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mertcan-BZTPRK&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mertcan-BZTPRK&layout=compact&theme=tokyo-night&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Mertcan-BZTPRK&theme=tokyo-night&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mertcan-BZTPRK&layout=compact&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -145,7 +145,7 @@ Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üz
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Mertcan-BZTPRK/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Mertcan-BZTPRK/Mertcan-BZTPRK/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
