@@ -75,6 +75,7 @@
 <table>
 <tr>
 <td width="50%">
+  
 ### 📱 ZEMHERİ
 Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü yönetimi ve kâr/zarar analizi sunan profesyonel Android finans uygulaması.
 
@@ -86,6 +87,7 @@ Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü
 
 </td>
 <td width="50%">
+  
 ### 📄 MABooklet
 Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birleştirme ve bölme özelliklerine sahip hepsi bir arada PDF araç seti.
 
@@ -99,6 +101,7 @@ Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birl
 </tr>
 <tr>
 <td width="50%">
+  
 ### 📧 MAB Mailer
 Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması.
 
@@ -110,6 +113,7 @@ Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kur
 
 </td>
 <td width="50%">
+  
 ### 🎬 MAB Converter
 YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme işlemleri yapan profesyonel Windows uygulaması.
 
@@ -123,6 +127,7 @@ YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses
 </tr>
 <tr>
 <td width="50%">
+  
 ### 📌 MAB Pin
 Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon görünümlü, sistem kaynağı tüketmeyen hafif WPF masaüstü aracı.
 
@@ -134,6 +139,7 @@ Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon
 
 </td>
 <td width="50%">
+  
 ### 🔒 [Devam Eden | Ongoing]
 MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları.
 
