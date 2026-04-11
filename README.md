@@ -145,7 +145,7 @@ Yeni IoT protokolleri, bulut entegrasyonları ve makine öğrenimi modelleri üz
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Mertcan-BZTPR/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Mertcan-BZTPRK/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
