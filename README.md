@@ -63,83 +63,117 @@
 </div>
 
 ---
-
-## 🚀 Projeler | Projects
+<!-- 🚀 PROJELER | PROJECTS -->
 
 <div align="center">
 
-[![MAB Tech Website](https://img.shields.io/badge/🌐%20Tüm%20Projeler%20için-mabtech.me-0077B5?style=for-the-badge)](https://mabtech.me)
+## 🚀 Projeler | Projects
+
+[![mabtech.me](https://img.shields.io/badge/🌐%20Tüm%20Projeler%20için-mabtech.me-0077B5?style=for-the-badge)](https://mabtech.me)
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-  
-### 📱 ZEMHERİ
-Döviz ve altın piyasalarını anlık takip eden, kişisel yatırım portföyü yönetimi ve kâr/zarar analizi sunan profesyonel Android finans uygulaması.
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;padding:1rem 0;font-family:'Segoe UI',sans-serif;">
 
-*Professional Android finance app for real-time currency & gold tracking, portfolio management and P&L analysis.*
+  <!-- ZEMHERİ -->
+  <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.25rem;border-top:2px solid #58a6ff;">
+    <div style="font-size:22px;margin-bottom:8px;">📱</div>
+    <div style="font-size:15px;font-weight:600;color:#79c0ff;margin-bottom:6px;">ZEMHERİ</div>
+    <div style="font-size:12.5px;color:#8b949e;line-height:1.55;margin-bottom:14px;">
+      Döviz ve altın piyasalarını anlık takip eden, portföy yönetimi ve kâr/zarar analizi sunan Android finans uygulaması.<br/>
+      <em style="color:#6e7681;">Real-time currency &amp; gold tracking with portfolio management and P&amp;L analysis.</em>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.08);color:#79c0ff;border:1px solid rgba(88,166,255,0.2);">Java</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.08);color:#79c0ff;border:1px solid rgba(88,166,255,0.2);">Firebase</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.08);color:#79c0ff;border:1px solid rgba(88,166,255,0.2);">SQLite</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.08);color:#79c0ff;border:1px solid rgba(88,166,255,0.2);">Android</code>
+    </div>
+  </div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  <!-- MABooklet -->
+  <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.25rem;border-top:2px solid #a371f7;">
+    <div style="font-size:22px;margin-bottom:8px;">📄</div>
+    <div style="font-size:15px;font-weight:600;color:#d2a8ff;margin-bottom:6px;">MABooklet</div>
+    <div style="font-size:12.5px;color:#8b949e;line-height:1.55;margin-bottom:14px;">
+      Baskıya hazır kitapçık oluşturma, yapay zeka destekli TTS, PDF birleştirme ve bölme özelliklerine sahip hepsi bir arada PDF araç seti.<br/>
+      <em style="color:#6e7681;">All-in-one PDF toolkit with AI-powered TTS, merge &amp; split in a modern dark WPF UI.</em>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(163,113,247,0.08);color:#d2a8ff;border:1px solid rgba(163,113,247,0.2);">C#</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(163,113,247,0.08);color:#d2a8ff;border:1px solid rgba(163,113,247,0.2);">.NET</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(163,113,247,0.08);color:#d2a8ff;border:1px solid rgba(163,113,247,0.2);">Python</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(163,113,247,0.08);color:#d2a8ff;border:1px solid rgba(163,113,247,0.2);">WPF</code>
+    </div>
+  </div>
 
-</td>
-<td width="50%">
-  
-### 📄 MABooklet
-Baskıya hazır kitapçık oluşturma, yapay zeka destekli metin okuma, PDF birleştirme ve bölme özelliklerine sahip hepsi bir arada PDF araç seti.
+  <!-- MAB Mailer -->
+  <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.25rem;border-top:2px solid #f78166;">
+    <div style="font-size:22px;margin-bottom:8px;">📧</div>
+    <div style="font-size:15px;font-weight:600;color:#ffa657;margin-bottom:6px;">MAB Mailer</div>
+    <div style="font-size:12.5px;color:#8b949e;line-height:1.55;margin-bottom:14px;">
+      Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması.<br/>
+      <em style="color:#6e7681;">Bulk &amp; personalized email sending desktop app powered by Excel data sources.</em>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(247,129,102,0.08);color:#ffa657;border:1px solid rgba(247,129,102,0.2);">C#</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(247,129,102,0.08);color:#ffa657;border:1px solid rgba(247,129,102,0.2);">WPF</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(247,129,102,0.08);color:#ffa657;border:1px solid rgba(247,129,102,0.2);">ClosedXML</code>
+    </div>
+  </div>
 
-*All-in-one PDF toolkit: print-ready booklets, AI-powered TTS, merge & split — in a modern dark WPF interface.*
+  <!-- MAB Converter -->
+  <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.25rem;border-top:2px solid #7ee787;">
+    <div style="font-size:22px;margin-bottom:8px;">🎬</div>
+    <div style="font-size:15px;font-weight:600;color:#7ee787;margin-bottom:6px;">MAB Converter</div>
+    <div style="font-size:12.5px;color:#8b949e;line-height:1.55;margin-bottom:14px;">
+      YouTube, LinkedIn, Instagram ve X'ten 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme aracı.<br/>
+      <em style="color:#6e7681;">Professional Windows app for 4K/1080p download &amp; conversion from YouTube, Instagram, X and more.</em>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(126,231,135,0.08);color:#7ee787;border:1px solid rgba(126,231,135,0.2);">C#</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(126,231,135,0.08);color:#7ee787;border:1px solid rgba(126,231,135,0.2);">WPF</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(126,231,135,0.08);color:#7ee787;border:1px solid rgba(126,231,135,0.2);">yt-dlp</code>
+    </div>
+  </div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <!-- MAB Pin -->
+  <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.25rem;border-top:2px solid #39d353;">
+    <div style="font-size:22px;margin-bottom:8px;">📌</div>
+    <div style="font-size:15px;font-weight:600;color:#56d364;margin-bottom:6px;">MAB Pin</div>
+    <div style="font-size:12.5px;color:#8b949e;line-height:1.55;margin-bottom:14px;">
+      Seçilen uygulamayı tek kısayolla her zaman üstte tutan, neon görünümlü, hafif WPF masaüstü aracı.<br/>
+      <em style="color:#6e7681;">Lightweight WPF tool — pins any app Always on Top with a single shortcut and neon UI.</em>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(57,211,83,0.08);color:#56d364;border:1px solid rgba(57,211,83,0.2);">C#</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(57,211,83,0.08);color:#56d364;border:1px solid rgba(57,211,83,0.2);">WPF</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(57,211,83,0.08);color:#56d364;border:1px solid rgba(57,211,83,0.2);">DWM</code>
+    </div>
+  </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-  
-### 📧 MAB Mailer
-Excel listelerinden kişiselleştirilmiş toplu e-posta gönderimi yapabilen kurumsal Windows masaüstü uygulaması.
+  <!-- Ongoing R&D -->
+  <div style="background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.25rem;border-top:2px solid #30363d;">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
+      <div style="font-size:22px;">🔒</div>
+      <span style="font-size:10px;padding:3px 8px;border-radius:20px;background:rgba(88,166,255,0.1);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);letter-spacing:1px;">ONGOING</span>
+    </div>
+    <div style="font-size:15px;font-weight:600;color:#8b949e;margin-bottom:6px;">Devam Eden Ar-Ge</div>
+    <div style="font-size:12.5px;color:#8b949e;line-height:1.55;margin-bottom:14px;">
+      MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları.<br/>
+      <em style="color:#6e7681;">Active R&amp;D at MAB Tech: IoT protocols, cloud integrations, and data analytics tools.</em>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.06);color:#8b949e;border:1px solid rgba(88,166,255,0.15);">IoT</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.06);color:#8b949e;border:1px solid rgba(88,166,255,0.15);">ML</code>
+      <code style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.06);color:#8b949e;border:1px solid rgba(88,166,255,0.15);">Cloud</code>
+      <a href="https://mabtech.me" style="font-size:10.5px;padding:3px 9px;border-radius:20px;background:rgba(88,166,255,0.06);color:#58a6ff;border:1px solid rgba(88,166,255,0.15);text-decoration:none;">mabtech.me ↗</a>
+    </div>
+  </div>
 
-*Bulk & personalized email sending desktop application powered by Excel data sources.*
+</div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ClosedXML](https://img.shields.io/badge/ClosedXML-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-</td>
-<td width="50%">
-  
-### 🎬 MAB Converter
-YouTube, LinkedIn, Instagram, X ve daha fazlasından 4K/1080p kalitede video/ses indirme, kırpma ve dönüştürme işlemleri yapan profesyonel Windows uygulaması.
-
-*Professional Windows app for downloading & converting 4K/1080p video & audio from YouTube, Instagram, X and more.*
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-  
-### 📌 MAB Pin
-Seçilen uygulamayı tek kısayolla her zaman üstte tutan (Always on Top), neon görünümlü, sistem kaynağı tüketmeyen hafif WPF masaüstü aracı.
-
-*Lightweight WPF desktop tool that pins any app Always on Top with a single shortcut and neon UI.*
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![DWM](https://img.shields.io/badge/DWM-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-</td>
-<td width="50%">
-  
+---
 ### 🔒 [Devam Eden | Ongoing]
 MAB Tech çatısı altında yeni IoT protokolleri, bulut entegrasyonları ve veri analiz araçları üzerine aktif Ar-Ge çalışmaları.
 
